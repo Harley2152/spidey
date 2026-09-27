@@ -1,0 +1,6 @@
+{
+  "name": "Spider-OS: Holographic Suit Terminal & Wallpaper Hub",
+  "description": "Interactive Spider-Man holographic HUD terminal, suit vault blueprints, web-shooter gadget lab, crime patrol scanner, and mobile lockscreen wallpaper studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
